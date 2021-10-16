@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/josh-app/static/css/main.a617e044.chunk.css",
+    "main.js": "/josh-app/static/js/main.1782ddfd.chunk.js",
+    "main.js.map": "/josh-app/static/js/main.1782ddfd.chunk.js.map",
+    "runtime-main.js": "/josh-app/static/js/runtime-main.62441ebc.js",
+    "runtime-main.js.map": "/josh-app/static/js/runtime-main.62441ebc.js.map",
+    "static/js/2.4cda838a.chunk.js": "/josh-app/static/js/2.4cda838a.chunk.js",
+    "static/js/2.4cda838a.chunk.js.map": "/josh-app/static/js/2.4cda838a.chunk.js.map",
+    "static/js/3.d8968b6e.chunk.js": "/josh-app/static/js/3.d8968b6e.chunk.js",
+    "static/js/3.d8968b6e.chunk.js.map": "/josh-app/static/js/3.d8968b6e.chunk.js.map",
+    "index.html": "/josh-app/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/josh-app/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.4cda838a.chunk.js.LICENSE.txt": "/josh-app/static/js/2.4cda838a.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/josh-app/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.62441ebc.js",
+    "static/js/2.4cda838a.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.1782ddfd.chunk.js"
+  ]
+}
